@@ -1,0 +1,5 @@
+/* In your component's .scss file */
+
+:host ::ng-deep .red-button {
+    background-color: #ED1C24 !important;
+}
